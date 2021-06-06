@@ -1,7 +1,7 @@
-# port
+# portfolio with dark mode
 Portfolio with dark mode
 
-  You can simply switch between Dark and light mode by clicking the moon on the light button onthe top-right corner.
+  # You can simply switch between Dark and light mode by clicking the moon on the light button onthe top-right corner.
   
   
   
@@ -9,7 +9,7 @@ Portfolio with dark mode
 
 
 
-While in dark mode you can switch to light also by clicking on the sun ont the top-right corner.
+# While in dark mode you can switch to light also by clicking on the sun ont the top-right corner.
 
 
 
